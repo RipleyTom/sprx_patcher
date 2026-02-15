@@ -1,0 +1,9 @@
+[package]
+name = "sprx_patcher"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+byteorder = "1"
+sha1 = "0.10"
+anyhow = "1"
